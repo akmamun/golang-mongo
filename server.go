@@ -22,7 +22,7 @@ func main() {
 	//   database.Dbinstance()
 	v1 := route.Group("/api/v1")
 	{
-		v1.POST("/", controllers.CreateTodo)
+		v1.POST("/todos", controllers.CreateTodo)
 
 	}
 
