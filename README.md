@@ -1,6 +1,6 @@
 ## Go Mongo DB and Gin based Microservice for API development
 ### Setup dependencies
-- Setup your .env file, for example follow .example.env
+- Setup your .env file, for example follow .env.example
 - To add all dependencies for a package in your module `go get .` in the current directory
 
 ### Lets Run
