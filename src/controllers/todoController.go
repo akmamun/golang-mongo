@@ -8,8 +8,8 @@ import (
 	"github.com/go-playground/validator/v10"
 	"go.mongodb.org/mongo-driver/mongo"
 
-	"github.com/neuron/src/database"
-	"github.com/neuron/src/models"
+	"github.com/go-mongo/src/database"
+	"github.com/go-mongo/src/models"
 )
 
 //get todoCollection

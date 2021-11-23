@@ -1,4 +1,4 @@
-module github.com/neuron
+module github.com/go-mongo
 
 go 1.16
 

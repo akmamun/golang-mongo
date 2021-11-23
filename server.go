@@ -2,10 +2,9 @@ package main
 
 import (
 	"os"
-
 	"github.com/gin-gonic/gin"
 
-	"github.com/neuron/src/controllers"
+	"github.com/go-mongo/src/controllers"
 )
 
 func main() {
